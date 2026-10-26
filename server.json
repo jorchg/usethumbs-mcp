@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.usethumbs/thumbs",
   "title": "thumbs",
-  "description": "Give an AI agent an iPhone to see, tap and type on over MCP. Free early access (Simulator), waitlist.",
+  "description": "Give an AI agent an iPhone to see, tap and type on over MCP. Free early access (Simulator).",
   "version": "0.1.0",
   "websiteUrl": "https://www.usethumbs.com/?utm_source=official_mcp_registry&utm_medium=directory&utm_campaign=directories_oct26&utm_content=dir_registry",
   "remotes": [
